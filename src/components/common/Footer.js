@@ -84,7 +84,7 @@ const Footer = () => {
 
 
           <div className='text-center' >
-            Made with ❤️ by Parth Lahoti
+            Made with ❤️ by Samyak Ajmera
           </div>
         </div>
       </div>
